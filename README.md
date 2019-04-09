@@ -1,3 +1,7 @@
+     maven {
+            //url "http://47.106.250.204:8866/RobotLibs"
+            url "https://raw.githubusercontent.com/ximenGG/RobotLibs/master"
+        }   
     implementation 'com.guoguang:idcard:1.0.0'//读卡器
     implementation 'com.gosuncn.aiui:aiui:1.0.0'//语音转文字
     implementation 'us.pinguo.svideo:svideo:1.0.0'//视频录制
