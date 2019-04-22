@@ -12,3 +12,6 @@
     implementation('com.gosuncn.facelib:facelib:1.0.0') {//人脸抓拍
         exclude group: 'com.android.support'
     }
+    implementation('com.gosuncn.logger:logger:1.0.0') {//日志输出
+        exclude group: 'com.android.support'
+    }
