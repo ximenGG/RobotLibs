@@ -3,10 +3,11 @@
   <groupId>com.gosuncn.serialport</groupId>
   <artifactId>serialport</artifactId>
   <versioning>
-    <release>1.0.0</release>
+    <release>2.0.0</release>
     <versions>
       <version>1.0.0</version>
+      <version>2.0.0</version>
     </versions>
-    <lastUpdated>20190404061916</lastUpdated>
+    <lastUpdated>20190423090206</lastUpdated>
   </versioning>
 </metadata>
